@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Thu Jan 06 10:20:49 2022
+# Process ID: 6744
+# Current directory: C:/Users/Helga/Desktop/Anul 3/SSC_Proiect/ProiectFinal/ProiectFinal.runs/impl_1
+# Command line: vivado.exe -log mmodul_principal.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source mmodul_principal.tcl -notrace
+# Log file: C:/Users/Helga/Desktop/Anul 3/SSC_Proiect/ProiectFinal/ProiectFinal.runs/impl_1/mmodul_principal.vdi
+# Journal file: C:/Users/Helga/Desktop/Anul 3/SSC_Proiect/ProiectFinal/ProiectFinal.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source mmodul_principal.tcl -notrace

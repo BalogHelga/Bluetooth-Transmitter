@@ -1,0 +1,26 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Wed Jan 05 16:32:35 2022
+# Process ID: 10004
+# Current directory: C:/Users/Helga/Desktop/Anul 3/SSC_Proiect/ProiectFinal
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent3744 C:\Users\Helga\Desktop\Anul 3\SSC_Proiect\ProiectFinal\ProiectFinal.xpr
+# Log file: C:/Users/Helga/Desktop/Anul 3/SSC_Proiect/ProiectFinal/vivado.log
+# Journal file: C:/Users/Helga/Desktop/Anul 3/SSC_Proiect/ProiectFinal\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/Helga/Desktop/Anul 3/SSC_Proiect/ProiectFinal/ProiectFinal.xpr}
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2016.4/data/ip'.
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 4
+[Wed Jan 05 16:35:17 2022] Launched synth_1...
+Run output will be captured here: C:/Users/Helga/Desktop/Anul 3/SSC_Proiect/ProiectFinal/ProiectFinal.runs/synth_1/runme.log
+[Wed Jan 05 16:35:17 2022] Launched impl_1...
+Run output will be captured here: C:/Users/Helga/Desktop/Anul 3/SSC_Proiect/ProiectFinal/ProiectFinal.runs/impl_1/runme.log
+exit
+INFO: [Common 17-206] Exiting Vivado at Wed Jan 05 16:36:48 2022...

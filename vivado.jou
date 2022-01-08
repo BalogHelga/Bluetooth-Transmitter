@@ -1,0 +1,16 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Wed Jan 05 16:32:35 2022
+# Process ID: 10004
+# Current directory: C:/Users/Helga/Desktop/Anul 3/SSC_Proiect/ProiectFinal
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent3744 C:\Users\Helga\Desktop\Anul 3\SSC_Proiect\ProiectFinal\ProiectFinal.xpr
+# Log file: C:/Users/Helga/Desktop/Anul 3/SSC_Proiect/ProiectFinal/vivado.log
+# Journal file: C:/Users/Helga/Desktop/Anul 3/SSC_Proiect/ProiectFinal\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/Helga/Desktop/Anul 3/SSC_Proiect/ProiectFinal/ProiectFinal.xpr}
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 4
+wait_on_run impl_1
